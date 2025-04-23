@@ -10,4 +10,3 @@ function greaterNumber(numberOne , numberTwo) {
     }
   }
 
-
